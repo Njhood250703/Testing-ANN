@@ -1,8 +1,0 @@
-__pycache__/
-*.pyc
-.venv/
-venv/
-.env
-*.joblib
-.streamlit/secrets.toml
-.DS_Store
